@@ -4,7 +4,7 @@ A place for all of the reviews and links to our past jams.  Based on an interest
 
 # Games
 
-| Jam | Game | Theme | Dates | Rating |
+| Jam | Game | Theme | Dates | Success |
 | --- | --- | --- | --- | --- |
 | GGJ 2022            | n/a | Duality | Jan 28-30 2022 48hr | n/a |
 | LD 49               | [PoCoBot](PoCoBot/README.md)                       | Unstable | Oct 2021 72hr | 4/5 |
