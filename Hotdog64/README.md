@@ -8,7 +8,7 @@ Move a slippery hotdog around a grid and try and get it in the hole while also p
 
 | Overall Rating | Overall Ranking |
 | --- | --- |
-| ? | ? |
+| 4.094 | 26 |
 
 ### Feedback
 
